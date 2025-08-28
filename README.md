@@ -105,7 +105,7 @@ For Windows:
 
 <img width="1299" height="1031" alt="image" src="https://github.com/user-attachments/assets/b2ba7a96-dbc4-45fb-8bc4-155aa16e4a38" />
 
-## .sh method
+# .sh method
 
 ## PROGRAM
 
@@ -120,7 +120,7 @@ For Windows:
 
 <img width="903" height="126" alt="image" src="https://github.com/user-attachments/assets/62594d26-7758-4ea5-962f-433681d87a7c" />
 
-## TERMINAL METHOD
+# TERMINAL METHOD
 
 <img width="596" height="614" alt="image" src="https://github.com/user-attachments/assets/7f169adc-5e13-41e4-b700-41ed762642f2" />
 
