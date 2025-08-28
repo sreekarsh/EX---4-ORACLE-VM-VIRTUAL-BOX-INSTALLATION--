@@ -105,20 +105,28 @@ For Windows:
 
 <img width="1299" height="1031" alt="image" src="https://github.com/user-attachments/assets/b2ba7a96-dbc4-45fb-8bc4-155aa16e4a38" />
 
-.sh method
+## .sh method
 
 ## PROGRAM
 
+`nano add.sh`
+<img width="754" height="328" alt="image" src="https://github.com/user-attachments/assets/5fb0f871-b9b3-4cd7-b0b2-c0340482b091" />
+
 ## EXPECTED OUTPUT
 
+<img width="503" height="267" alt="image" src="https://github.com/user-attachments/assets/efac99ea-cd15-4344-9b6f-6ac6166e37d0" />
 
+## CHMOD METHOD
+
+<img width="903" height="126" alt="image" src="https://github.com/user-attachments/assets/62594d26-7758-4ea5-962f-433681d87a7c" />
 
 ## TERMINAL METHOD
 
+<img width="596" height="614" alt="image" src="https://github.com/user-attachments/assets/7f169adc-5e13-41e4-b700-41ed762642f2" />
 
-CHMOD METHOD
+## LINUX COMMANDS
 
-LINUX COMMANDS
+<img width="997" height="548" alt="image" src="https://github.com/user-attachments/assets/cdba70ef-54c7-42f2-9894-801d7438ae0f" />
 
 ## RESULT
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
